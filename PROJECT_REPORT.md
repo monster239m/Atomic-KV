@@ -25,15 +25,9 @@
 
 ### **Redis-Clone: A Comprehensive Multi-Threaded Key-Value Store Implementation Using Advanced Data Structures and Algorithms in C**
 
-**Course:** Data Structures and Algorithms Laboratory (DSA LAB)
-**Academic Year:** 2026
-**Institution:** [Your Institution Name]
-**Author:** [Your Name]
-**Date:** March 25, 2026
-
 ---
 
-## 2. INTRODUCTION (10,000+ Words)
+## 2. INTRODUCTION
 
 ### 2.1 Overview and Context
 
@@ -270,7 +264,7 @@ Each objective aligns with specific learning outcomes:
 
 ---
 
-## 4. WHY I CHOSE THIS TOPIC (5,000+ Words)
+## 4. WHY I CHOSE THIS TOPIC 
 
 ### 4.1 Initial Inspiration
 
@@ -362,7 +356,7 @@ This wasn't a random choice, but a deliberate decision to invest time in underst
 
 ---
 
-## 5. THEORY OF DATA STRUCTURES AND ALGORITHMS (15,000+ Words)
+## 5. THEORY OF DATA STRUCTURES AND ALGORITHMS 
 
 ### 5.1 Foundational Concepts
 
@@ -825,7 +819,7 @@ These theoretical foundations guide implementation decisions and performance exp
 
 ---
 
-## 6. IMPLEMENTATION DETAILS (12,000+ Words)
+## 6. IMPLEMENTATION DETAILS 
 
 ### 6.1 Architecture Overview
 
@@ -1357,7 +1351,7 @@ The radix tree enables prefix-based queries (KEYS command) which hash maps canno
 
 ---
 
-## 7. APPLICATIONS IN REAL LIFE (8,000+ Words)
+## 7. APPLICATIONS IN REAL LIFE 
 
 ### 7.1 Web Applications and Caching
 
@@ -1578,7 +1572,7 @@ These companies represent the breadth of Redis applicability: each uses it for m
 
 ---
 
-## 8. IMPLEMENTATION AND TESTING (10,000+ Words)
+## 8. IMPLEMENTATION AND TESTING
 
 ### 8.1 Testing Strategy
 
@@ -2012,7 +2006,7 @@ void measure_latency_distribution(int num_operations) {
 
 ---
 
-## 9. RESULTS AND DISCUSSION (8,000+ Words)
+## 9. RESULTS AND DISCUSSION
 
 ### 9.1 Performance Analysis
 
@@ -2196,7 +2190,7 @@ Measured performance (1-2M ops/sec) is meaningful but below Redis's optimized im
 
 ---
 
-## 10. FUTURE SCOPE (5,000+ Words)
+## 10. FUTURE SCOPE
 
 ### 10.1 Advanced Data Structures
 
